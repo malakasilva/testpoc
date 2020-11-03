@@ -24,6 +24,8 @@ public class PostBody {
 	}
 	public void setsObjects(String sObjects) {
 		this.sObjects = sObjects;
+this.sObjects = sObjects;
+
 	}
 	
 }
